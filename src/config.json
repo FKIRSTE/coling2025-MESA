@@ -1,0 +1,10 @@
+{
+    "MODE": 2,
+    "SINGLE_MODEL": false,
+    "MULTI_FAMILY": false,
+    "ITERATIONS": 1,
+    "DO_FITTING": false,
+    "SELF_TRAINING": false,
+    "STOP_INDEX": 1
+  }
+  
